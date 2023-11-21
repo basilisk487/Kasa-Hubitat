@@ -2,6 +2,8 @@
 
 This is the distribution repository for the Hubitat Built-In Kasa Integration capability and is intended primarily for the Hubitat Team.
 
+Released for Hubitat Version 2.3.7.
+
 ## Instructions:
 
 Application Description:  https://github.com/DaveGut/HubitatActive/blob/master/KasaDevices/Docs/App.pdf
