@@ -6,7 +6,7 @@ Released for Hubitat Version 2.3.7.
 
 ## Instructions:
 
-Application Description:  https://github.com/DaveGut/HubitatActive/blob/master/KasaDevices/Docs/App.pdf
+Installation Instructions:  https://github.com/DaveGut/HubitatActive/blob/master/KasaDevices/Docs/Install.pdf
 
 Device Capabilities:  https://github.com/DaveGut/HubitatActive/blob/master/KasaDevices/Docs/DeviceCaps.pdf
 
